@@ -1,6 +1,6 @@
-# Repro steps
-Start the stack :
+# Setup
 
+Start the stack :
 ```
 docker-compose up
 ```
@@ -19,6 +19,8 @@ Access the admin : http://localhost:8055
 Import data from the admin in this order : 
 - posts
 - comments
+
+# Repro steps
 
 Update the first post title and save as copy
 
